@@ -5,7 +5,7 @@ B.Tech Student | Full Stack Developer | AI Enthusiast |  🌍
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Applications;Learning+Full+Stack+Development;Future+Global+Exporter;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+AI+Powered+Applications;Learning+Full+Stack+Development;Always+Learning+Something+New" />
 </p>
 
 ---
