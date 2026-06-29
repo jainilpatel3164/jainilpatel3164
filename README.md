@@ -93,15 +93,6 @@ B.Tech Student | Full Stack Developer | AI Enthusiast | Future Export Entreprene
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jainilpatel3164&theme=onedark&row=1&column=6"/>
-
-</p>
-
----
 
 ## 📊 Contribution Graph
 
