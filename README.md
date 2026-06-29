@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jainil Patel</h1>
 
 <h3 align="center">
-B.Tech Student | Full Stack Developer | AI Enthusiast | Future Export Entrepreneur 🌍
+B.Tech Student | Full Stack Developer | AI Enthusiast |  🌍
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ B.Tech Student | Full Stack Developer | AI Enthusiast | Future Export Entreprene
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Engineering Student from India
+🎓 B.Tech Engineering Student from GCET,Anand
 
 💻 Passionate about Full Stack Development and Artificial Intelligence
 
@@ -29,7 +29,7 @@ B.Tech Student | Full Stack Developer | AI Enthusiast | Future Export Entreprene
 - Export Business
 
 🚀 Goal
-> Build technology that helps businesses trade globally.
+>Grow as a software engineer by developing scalable applications, exploring AI technologies, and contributing to innovative products.
 
 ---
 
